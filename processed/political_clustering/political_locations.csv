@@ -1,0 +1,31 @@
+location_key,state_code,state_name,zip_code,county_name,aggregation_level,population,latitude,longitude
+US_CT_09001,CT,Connecticut,09001,Fairfield County,2,943038.0,41.23,-73.37
+US_CT_09003,CT,Connecticut,09003,Hartford County,2,893076.0,41.81,-72.73
+US_CT_09009,CT,Connecticut,09009,New Haven County,2,857748.0,41.35,-72.9
+US_DC_11001,MD,District of Columbia,11001,District of Columbia,2,694906.0,38.895,-77.036667
+US_MA_25009,MA,Massachusetts,25009,Essex County,2,784453.0,42.635475,-70.970825
+US_MA_25017,MA,Massachusetts,25017,Middlesex County,2,1603943.0,42.459084,-71.275566
+US_MA_25021,MA,Massachusetts,25021,Norfolk County,2,700599.0,42.199158,-71.154442
+US_MA_25025,MA,Massachusetts,25025,Suffolk County,2,800806.0,42.334949,-71.073494
+US_MA_25027,MA,Massachusetts,25027,Worcester County,2,825749.0,42.35,-71.91
+US_MD_24005,MD,Maryland,24005,Baltimore County,2,828645.0,39.4,-76.6
+US_MD_24031,MD,Maryland,24031,Montgomery County,2,1046822.0,39.136389,-77.204167
+US_MD_24033,MD,Maryland,24033,Prince George's County,2,909705.0,38.83,-76.85
+US_NJ_34003,NJ,New Jersey,34003,Bergen County,2,932420.0,40.96,-74.07
+US_NJ_34013,NJ,New Jersey,34013,Essex County,2,796349.0,40.79,-74.25
+US_NJ_34017,NJ,New Jersey,34017,Hudson County,2,672826.0,40.73,-74.08
+US_NJ_34023,NJ,New Jersey,34023,Middlesex County,2,827363.0,40.44,-74.41
+US_NY_36005,NY,New York,36005,Bronx County,2,1440625.0,40.84676,-73.873207
+US_NY_36029,NY,New York,36029,Erie County,2,919034.0,42.75,-78.78
+US_NY_36047,NY,New York,36047,Kings County,2,2594676.0,40.692778,-73.990278
+US_NY_36055,NY,New York,36055,Monroe County,2,742724.0,43.3,-77.69
+US_NY_36059,NY,New York,36059,Nassau County,2,1357293.0,40.747222,-73.638056
+US_NY_36061,NY,New York,36061,New York County,2,1630698.0,40.728333,-73.994167
+US_NY_36081,NY,New York,36081,Queens County,2,2295808.0,40.704167,-73.917778
+US_NY_36103,NY,New York,36103,Suffolk County,2,1483358.0,40.94,-72.68
+US_NY_36119,NY,New York,36119,Westchester County,2,969689.0,41.15,-73.775
+US_PA_42003,PA,Pennsylvania,42003,Allegheny County,2,1220141.0,40.435556,-80.024444
+US_PA_42091,PA,Pennsylvania,42091,Montgomery County,2,824303.0,40.21,-75.37
+US_PA_42101,PA,Pennsylvania,42101,Philadelphia County,2,1580601.0,40.01,-75.13
+US_RI_44007,MA,Rhode Island,44007,Providence County,2,634130.0,41.852848,-71.456161
+US_VA_51059,MD,Virginia,51059,Fairfax County,2,1148728.0,38.83,-77.28

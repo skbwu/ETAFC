@@ -13,4 +13,4 @@
 
 module load cmake/3.25.2-fasrc01
 module load gcc/12.2.0-fasrc01
-conda run -n kar98k python3 dcrnn_main.py $1
+conda run -n am220 python3 dcrnn_main.py $1

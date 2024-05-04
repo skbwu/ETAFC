@@ -1,7 +1,7 @@
 # Exploring Temporal Graph Neural Networks for Autoregressive Forecasting of COVID-19
 This repo accompanies the paper "Exploring Temporal Graph Neural Networks for Autoregressive Forecasting of COVID-19" written by Skyler Wu '24 for Professor Melanie Weber's APMTH 220: Geometric Methods for Machine Learning, Spring 2024.
 
-Raw data from the [Google COVID-19 Open Data Repository](https://health.google.com/covid-19/open-data/) as well shapefiles for map visualization from the [US Census](https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_500k.zip) can be found in the `raw` folder, while processed data can be found in the `processed` folder (e.g., daily-aggregated-weekly data, central files for saving cleaned `location_key` and latitude/longitude data). The notebooks used to process the raw data and prototype some of the below pipelines can be found in `notebooks`.
+Raw data from the [Google COVID-19 Open Data Repository](https://health.google.com/covid-19/open-data/) as well shapefiles for map visualization from the [US Census](https://www2.census.gov/geo/tiger/GENZ2018/shp/cb_2018_us_state_500k.zip) can be found in the `raw` folder, while processed data can be found in the `processed` folder (e.g., daily-aggregated-weekly data, central files for saving cleaned `location_key` and latitude/longitude data). I zipped the contents of the `raw` folder to comply with GitHub file size limits. The notebooks used to process the raw data and prototype some of the below pipelines can be found in `notebooks`.
 
 Within the `scripts` folder:
 - `linear_main.py` contains the main pipeline for running linear vector autoregression and standard autoregression models for COVID-19 disease forecasting.
